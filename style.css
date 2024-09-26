@@ -1,0 +1,173 @@
+.nav-cat{
+    color: darkgoldenrod;
+    padding-left: 20px;
+}
+.main-nav{
+    display: inline-flex;
+    border: 2px solid black;
+    background-color: bisque;
+    height: 90px;
+    width: 1300px;
+}
+.d-flex{
+    margin-left: 600px;
+    margin-top: 20px;
+    height: 40px;
+}
+.nav{
+    margin-top: 25px;
+}
+.slider{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.card-1{
+    border: 2px solid black;
+    width: 364px;
+    margin-left: 40px;
+    
+}
+.card-2{
+    border: 2px solid black;
+    width: 364px; 
+    margin-left: 40px;
+}
+.card-3{
+    border: 2px solid black;
+    width: 364px;
+    margin-left: 40px;
+}
+.card-main1{
+    display: inline-flex;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.card-main2{
+    display: inline-flex;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.card-main3{
+    display: inline-flex;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.card-main4{
+    display: inline-flex;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.main-footer{
+    display: inline-flex;
+    border: 4px solid black;
+    width: 1260px;
+    margin-top: 40px;
+}
+.f-1{
+    margin-left: 160px;
+    margin-top: 10px;
+}
+.f-2{
+    margin-left: 160px;
+    margin-top: 10px;
+}
+.f-3{
+    margin-left: 160px;
+    margin-top: 10px;
+}
+@media only screen and (max-width : 600px){
+    
+    .nav-cat{
+        color: darkgoldenrod;
+        display: inline-flex
+    }
+    .main-nav{
+        display: inline-flex;
+        border: 2px solid black;
+        background-color: bisque;
+        height: 70px;
+        width: 465px;
+    }
+    .d-flex{
+        margin-left: 0px;
+        margin-top: 20px;
+        height: 40px;
+    }
+    .nav{
+        margin-top: 10px;
+    }
+    .slider{
+        margin-top: 40px;
+        margin-bottom: 40px;
+        width: 465px;
+        height: px;
+    }
+    .card-1{
+        border: 2px solid black;
+        width: 364px;
+        margin-left: 50px;
+        margin-top: 15px;
+        margin-bottom: 15px;
+        
+    }
+    .card-2{
+        border: 2px solid black;
+        width: 364px; 
+        margin-left: 50px;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    .card-3{
+        border: 2px solid black;
+        width: 364px;
+        margin-left: 50px;
+        margin-top: 15px;
+        margin-bottom: 15px;
+        }
+    .card-main1{
+        display: inline-block;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .card-main2{
+        display: inline-block;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .card-main3{
+        display: inline-block;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .card-main4{
+        display: inline-block;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .main-footer{
+        display: inline-flex;
+        border: 4px solid black;
+        width: 465px;
+        margin-top: 40px;
+    }
+    .f-1{
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+    .f-2{
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+    .f-3{
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+    hr{
+        width: 465px;
+    }
+    .f-logo{
+        width: 70px;
+    height: 70px;
+    margin-top: 50px;
+    }
+}
